@@ -1,3 +1,3 @@
-# AutoHotKey scripts
+# Simple AutoHotKey scripts
 
-Simple AutoHotkey scripts.
+gta5noidle.ahk: Grand Theft Auto 5 Online No Idle
